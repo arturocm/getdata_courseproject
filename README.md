@@ -5,11 +5,19 @@ This repo contains the 3 requirements asked by the Course Project of the Getting
 
 The run_analysis.R script contains a run() function that will perform the task asked by the project:
 
+<<<<<<< HEAD
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement. 
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive variable names. 
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+=======
+* 1) Merges the training and the test sets to create one data set.
+* 2) Extracts only the measurements on the mean and standard deviation for each measurement. 
+* 3) Uses descriptive activity names to name the activities in the data set
+* 4) Appropriately labels the data set with descriptive variable names. 
+* 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+>>>>>>> ee1451bb0a384812fc8af03ab30b27f85dd6a863
 
 There are a couple of considerations needed for the function to work.
 
