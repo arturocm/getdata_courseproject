@@ -11,7 +11,6 @@ The run_analysis.R script contains a run() function that will perform the task a
 * 4) Appropriately labels the data set with descriptive variable names. 
 * 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-
 There are a couple of considerations needed for the function to work.
 
 * a) It assumes "getdata-projectfiles-UCI HAR Dataset" zip file has been extracted in working directory as it is (the read.table functions includes paths to the necessary txt files)
